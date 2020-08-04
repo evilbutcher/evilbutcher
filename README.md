@@ -5,5 +5,5 @@
  - 🔭 I’m currently interested in JavaScript
  - 🌱 I’m currently learning Chemistry
  - 💬 Ask me about: Anything!
- - 📫 How to reach me: [@evilbutcher](t.me/evilbutcher)
+ - 📫 How to reach me: [@evilbutcher](https://t.me/evilbutcher)
  - ⚡ Fun fact: Funko!
