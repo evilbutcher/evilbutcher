@@ -4,8 +4,8 @@
 
  ### Hi there 👋
 
- - 🔭 I’m currently interested in JavaScript
- - 🌱 I’m currently learning Chemistry
+ - 🔭 I’m currently interested in JavaScript and Python.
+ - 🌱 I’m currently learning Chemistry.
  - 💬 Ask me about: Anything!
- - 📫 How to reach me: [@evilbutcher](https://t.me/evilbutcher)
+ - 📫 How to reach me: [@evilbutcher](https://t.me/evilbutcher) or pgcrfhht@outlook.com
  - ⚡ Fun fact: Funko!
