@@ -8,4 +8,7 @@
  - 🌱 I’m currently learning Chemistry.
  - 💬 Ask me about: Anything!
  - 📫 How to reach me: [@evilbutcher](https://t.me/evilbutcher) or pgcrfhht@outlook.com
- - ⚡ Fun fact: Funko!
+ - ⚡ Fun fact: Love Funko!
+
+#### Thank you for the visit.
+![](http://profile-counter.glitch.me/evilbutcher/count.svg)
