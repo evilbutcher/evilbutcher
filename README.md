@@ -7,7 +7,7 @@
  - 🔭 I’m currently interested in JavaScript and Python.
  - 🌱 I’m currently learning Chemistry.
  - 💬 Ask me about: Anything!
- - 📫 How to reach me: [@evilbutcher](https://t.me/evilbutcher) or pgcrfhht@outlook.com
+ - 📫 How to reach me: [@evilbutcher](https://t.me/evilbutcher_bot) or pgcrfhht@outlook.com
  - ⚡ Fun fact: Love Funko!
 
 #### Thank you for the visit.
